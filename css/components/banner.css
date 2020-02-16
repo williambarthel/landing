@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgb(45,19,44,0.6) 0%, rgb(238,69,64,0.2) 50%), url(../../images/decline.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 45px;
+
+}
+
+.banner h3 {
+	font-size: 25px;
+	font-weight: lighter;
+	opacity: 0.9;
+	margin-bottom: 50px;
+}
